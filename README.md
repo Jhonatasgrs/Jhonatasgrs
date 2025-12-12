@@ -51,6 +51,14 @@ Sou Jhonatas Galdino, 27 anos, paraibano e estudante de Análise e Desenvolvimen
 />
 <img 
     align="left" 
+    alt="Nodejs" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
