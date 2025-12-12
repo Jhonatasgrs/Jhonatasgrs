@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Jhonatas Galdino
+# 👨🏻‍💻 Jhonatas Galdino 👨🏻‍💻
 
 **`Desenvolvedor FullStack`**
 
