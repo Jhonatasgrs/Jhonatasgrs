@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Jhonatas Galdino, 27 anos, paraibano e estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de João Pessoa. Sou apaixonado por tecnologia, RPG e tudo o que envolve o universo nerd 🤓. Busco evolução constante, tanto profissional quanto pessoal, e gosto de integrar minhas paixões ao meu processo de aprendizado. Sempre que posso, encontro maneiras de transformar desafios em algo divertido, mantendo a curiosidade e leveza no dia a dia.
+Sou Jhonatas Galdino, 27 anos, paraibano e formando de Análise e Desenvolvimento de Sistemas no Centro Universitário de João Pessoa. Sou apaixonado por tecnologia, RPG e tudo o que envolve o universo nerd 🤓. Busco evolução constante, tanto profissional quanto pessoal, e gosto de integrar minhas paixões ao meu processo de aprendizado. Sempre que posso, encontro maneiras de transformar desafios em algo divertido, mantendo a curiosidade e leveza no dia a dia.
 
 <p align="left">
     <a href="https://github.com/Jhonatasgrs?tab=repositories&sort=stargazers">
